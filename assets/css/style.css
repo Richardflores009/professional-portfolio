@@ -2,46 +2,52 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color:#050505;
 }
 
 :root {
-    --primary-color: #ffff00;
-    --secondary-color: #99ccff;
+    --primary-color: #fff;
+    --secondary-color: #fff;
     --tertiary-color: #9966ff;
 
 }
 
+body {
+    color: var(--primary-color);
+}
+
 header {
-    background-color: #9966ff;
+    background-colo;
     padding: 20px 35px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin: 25px;
 }
 
-header h1 {
-    font-weight: bold;
-    font-size: 36px;
-    color: var(--primary-color);
-    margin: 0;
-    text-decoration: none;
-    text-shadow: 0 0 10px rgba(0,0,0,0.5);
-}
 
 header h1 a {
     text-decoration: none;
     color: var(--primary-color);
-    margin: 0;
+    margin-left: 0;
     display: inline;
   }
+
+header h1 a img {
+    width: 40px;
+    font-weight: bold;
+
+}
+
+.hamburger img {
+    width: 50px;
+}
 
 header nav ul {
     position: relative;
     width: 100%;
     list-style: none;
     display:flex;
-    justify-content: flex-end;
-    align-items: center;
 }
 
 header nav ul li a {
@@ -51,5 +57,58 @@ header nav ul li a {
     margin: 80px;
     font-size: 26px;
     font-weight: 500;
-    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-align: center;
 }
+
+/* hero section start */
+
+.hero {
+    text-align: center;
+    padding: 50px 0 200px 0;
+}
+
+.hero-title {
+    position: relative;
+    margin-bottom: 130px;
+    font-size: 60px;
+}
+
+
+
+.hero-img {
+    padding: 0;
+    margin: auto;
+    background-image: url("../images/Untitled.png");
+    background-size: 370px;
+    width: 350px;
+    height: 450px;
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 -2px 30px rgb(41, 41, 41);
+}
+
+/* end of hero */
+
+.about-me {
+    line-height: 1.55;
+}
+
+.about-me-container {
+    width: 45%;
+    margin-left: 250px;
+    margin-bottom: 300px;
+}
+
+.sidebar {
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+section article div p {
+    position: relative;
+    font-size: 19px;
+    line-height: 1.33;
+}
+
+
