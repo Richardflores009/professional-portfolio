@@ -11,10 +11,13 @@ Creating a personal portfolio from scratch. I have added a pho, my name and some
 ******************************************************************************************************************************************************************************************************************************
 
 ### Top screenshot of webpage:
-![alt text](https://github.com/Richardflores009/Horiseon/blob/master/assets/images/Screen%20Shot%202020-07-31%20at%2017.40.54.png "Top of webpage")
+![alt text](https://github.com/Richardflores009/professional-portfolio/blob/master/assets/images/Screen%20Shot%202020-08-08%20at%2019.41.29.png "Top of webpage")
+
+### Middle screenshot of webpage:
+![alt text](https://github.com/Richardflores009/professional-portfolio/blob/master/assets/images/Screen%20Shot%202020-08-08%20at%2019.41.49.png "Middle of webpage")
 
 ### Bottom screenshot of webpage:
-![alt text](https://github.com/Richardflores009/Horiseon/blob/master/assets/images/Screen%20Shot%202020-07-31%20at%2017.40.30.png "Bottom of webpage")
+![alt text](https://github.com/Richardflores009/professional-portfolio/blob/master/assets/images/Screen%20Shot%202020-08-08%20at%2019.42.04.png "Bottom of webpage")
 
 
 ## Link to deployed application
