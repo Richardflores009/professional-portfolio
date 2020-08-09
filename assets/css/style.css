@@ -225,7 +225,7 @@ header img {
 
 
 .project1 {
-    background-image: url(/assets/images/1.JPG);
+    background-image: url("./assets/images/1.JPG");
     background-position: center;
     background-size: cover;
     grid-column: 7 / 8;
@@ -234,7 +234,7 @@ header img {
 }
 
 .project2 {
-    background-image: url(assets/images/2);
+    background-image: url("../assets/images/2");
     background-position: center;
     background-size: cover;
     grid-column: 2 / 5;
@@ -242,7 +242,7 @@ header img {
 }
 
 .project3 {
-    background-image: url(/assets/images/3.PNG);
+    background-image: url("/assets/images/3.PNG");
     background-position: center;
     background-size: cover;
     grid-column: 5 / 7;
