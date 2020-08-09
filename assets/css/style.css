@@ -302,7 +302,7 @@ header img {
 }
 /* test */
 
-/* BTW it wasnt stated that nav links had to work for smaller devices so they wont work on this page */
+/* BTW it wasnt stated that nav links had to work for smaller devices so they wont work on this page unless you tap i believe s*/
 /* smaller media format attributes */
 @media only screen and (max-width: 991px) {
     header {
