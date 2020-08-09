@@ -259,7 +259,7 @@ header img {
 }
 
 .project5 {
-    background-image: url("assets/images/apachefalls.jpg");
+    background-image: url("https://github.com/Richardflores009/professional-portfolio/blob/develop/assets/images/apachefalls.jpg?raw=true");
     background-position: center;
     background-size: cover;
     grid-column: 7/ 8;
