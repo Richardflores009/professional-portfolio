@@ -225,7 +225,7 @@ header img {
 
 
 .project1 {
-    background-image: url(/assets/images/1.jpg);
+    background-image: url(/assets/images/1.JPG);
     background-position: center;
     background-size: cover;
     grid-column: 7 / 8;
@@ -242,7 +242,7 @@ header img {
 }
 
 .project3 {
-    background-image: url(/assets/images/3.png);
+    background-image: url(/assets/images/3.PNG);
     background-position: center;
     background-size: cover;
     grid-column: 5 / 7;
@@ -250,7 +250,7 @@ header img {
 }
 
 .project4 {
-    background-image: url(/assets/images/4.jpg);
+    background-image: url(/assets/images/4.JPG);
     background-position: center;
     background-size: cover;
     grid-column: 5 / 7;
@@ -259,7 +259,7 @@ header img {
 }
 
 .project5 {
-    background-image: url(/assets/images/apachefalls.jpg);
+    background-image: url(/assets/images/apachefalls.JPG);
     background-position: center;
     background-size: cover;
     grid-column: 7/ 8;
